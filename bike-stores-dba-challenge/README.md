@@ -17,7 +17,7 @@ Este projeto contém consultas SQL desenvolvidas para a base de dados da empresa
 ## Como Usar
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/VitorEmanuelDev/db_challenge.git](https://github.com/VitorEmanuelDev/db_challenge.git)
+    git clone https://github.com/VitorEmanuelDev/db_challenge.git
     ```
 2.  **Acesse o arquivo de consultas:**
     Navegue até o diretório clonado e localize o arquivo `queries.sql`.
