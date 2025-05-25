@@ -1,0 +1,54 @@
+# Arquivos do DBeaver
+*.dbeaver
+*.dbeaver-data
+.connection.xml
+.credentials.xml
+.workspace.xml
+/data-sources.json
+/drivers/
+
+# PostgreSQL
+*.pid
+*.lock
+postgresql/data/
+postgresql/logs/
+*.dump
+*.backup
+
+# Configurações locais
+.env
+*.env
+config/local.yml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.old
+
+# Arquivos de resultado de consultas
+/output/
+/query_results/
+*.csv
+*.xlsx
+
+# Arquivos do sistema operacional
+*.swp
+*~
